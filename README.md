@@ -1,2 +1,3 @@
-# bypass-sandbox-antivirus-detection-using-human-interaction-technique-by-cheking-mouse-movement
+# bypass-sandbox-antivirus-detection-using-human-interaction-technique-by-cheking-mouse-movement in c#
 This project actually checks for the mouse movement if reach to 100 pixel it will start cmd and open cmd.exe and chrome.exe. Just to give idea that some sandbox does not use mouse movements.
+so this project is very simple and basic. It use mouse coordinates to detects mouse movement and then it also checks if 100pexels reach it will try to start some activity, you can start your payload or trojan when this condition reaches. It will strart cmd.exe and cheome.exe just to see potential of this technique.

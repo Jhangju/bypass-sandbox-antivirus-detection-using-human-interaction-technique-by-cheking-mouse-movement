@@ -1,0 +1,6 @@
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\bin\Release\checksmousemovement.exe.config
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\bin\Release\checksmousemovement.exe
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\bin\Release\checksmousemovement.pdb
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\obj\Release\checksmousemovement.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\obj\Release\checksmousemovement.exe
+C:\Users\osama\source\repos\checksmousemovement\checksmousemovement\obj\Release\checksmousemovement.pdb
